@@ -1,0 +1,13 @@
+:host ::ng-deep app-card .p-card {
+  background-color: #272727 !important;
+  color: #D2AC49 !important;
+}
+
+:host ::ng-deep app-menu .p-menu {
+  background-color: #272727 !important;
+}
+
+:host ::ng-deep app-menu .p-menu ul li {
+  background-color: #272727 !important;
+  color: #D2AC49 !important;
+}

@@ -1,0 +1,32 @@
+<p-table [value]="products">
+  <ng-template pTemplate="header">
+    <tr>
+      <th>
+        Data da Venda
+      </th>
+      <th>
+        Horário
+      </th>
+      <th>
+        Id do Produto
+      </th>
+      <th>
+        Cliente
+      </th>
+      <th>
+        Vendedor
+      </th>
+      <th>Observação</th>
+    </tr>
+  </ng-template>
+  <ng-template pTemplate="body" let-product>
+    <tr>
+      <td>{{ product.datetime }}</td>
+      <td>{{ product.hour }}</td>
+      <td>{{ product.product_id }}</td>
+      <td>{{ product.client }}</td>
+      <td>{{ product.seller }}</td>
+      <td>{{ product.sale_desc }}</td>
+    </tr>
+  </ng-template>
+</p-table>

@@ -1,0 +1,114 @@
+<section id="menu-section" class="d-flex justify-content-center mt-4">
+  <app-menu></app-menu>
+</section>
+
+<section id="category-product-section" class="d-flex justify-content-center mt-5">
+  <div class="d-flex gap-2">
+    <app-button prop-label="Produto" (click-event)="openProdModal()">
+    </app-button>
+    <app-dialog header="Form de Cadastro de Produto" position="left" [visible]="prodVisible" [style]="{ width: '25rem'}"
+      (close-modal)="closeProdModal()">
+      <form [formGroup]="produtcForm">
+        <div class="grid gap-0 row-gap-3">
+          <div class="p-2 g-col-6">
+            <app-input
+              formControlName="description"
+              inputName="description"
+              label="Descrição"
+              placeholder="Descrição do produto">
+            </app-input>
+          </div>
+          <div class="p-2 g-col-6">
+            <app-input-number
+              formControlName="price"
+              inputName="amount"
+              label="Preço"
+              placeholder="Preço do Produto"
+              mode="decimal"
+              minFractionsDigits="2"
+              maxFractionDigits="5">
+            </app-input-number>
+          </div>
+          <div class="p-2 g-col-6">
+            <app-input-number
+              formControlName="amount"
+              inputName="amount"
+              label="Quantidade"
+              placeholder="Quantidade do produto">
+            </app-input-number>
+          </div>
+          <div class="p-2 g-col-6">
+            <app-input
+              formControlName="image"
+              inputName="image"
+              label="Imagem"
+              placeholder="Url da imagem do produto">
+            </app-input>
+          </div>
+          <div class="p-2 g-col-6">
+            <app-select
+              formControlName="category_id"
+              [options]="options"
+              label="Categoria"
+              placeholder="Categoria do Produto"></app-select>
+          </div>
+          <div class="p-2 g-col-6">
+            <app-button prop-label="Cadastrar Produto" (click-event)="createProduct()"></app-button>
+          </div>
+        </div>
+      </form>
+    </app-dialog>
+    <app-button prop-label="Categoria" (click-event)="openCategModal()"></app-button>
+    <app-dialog header="Form de Cadastro de Categoria" position="right" [visible]="categVisible"
+      [style]="{ width: '25rem' }" (close-modal)="closeCategModal()">
+      <form [formGroup]="categoryForm">
+        <div class="grid gap-0 row-gap-3">
+          <div class="p-2 g-col-6">
+            <app-input formControlName="description" inputName="description" label="Descrição"
+              placeholder="Descrição da categoria">
+            </app-input>
+          </div>
+          <div class="p-2 g-col-6">
+            <app-button prop-label="Cadastrar Categoria" (click-event)="createCategory()">
+            </app-button>
+          </div>
+        </div>
+      </form>
+    </app-dialog>
+  </div>
+</section>
+<section id="filter" class="d-flex justify-content-center mt-5">
+  <form [formGroup]="searchForm">
+    <div class="d-flex justify-content-center">
+      <app-input
+          formControlName="query"
+          inputName="query"
+          placeholder="Pesquisar produto">
+        </app-input>
+    </div>
+    <div class="d-flex justify-content-center mt-2">
+      <app-button prop-label="Buscar" (click-event)="searchProducts()">
+      </app-button>
+    </div>
+  </form>
+</section>
+<section id="product-cards" class="d-flex justify-content-center mt-2">
+  <div class="d-flex" *ngIf="loading">
+    <app-progress></app-progress>
+  </div>
+  <div #elseblock>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-3 mt-2" *ngFor="let product of filteredProducts">
+          <app-prod-card
+            header="{{ product.description }}"
+            src="{{ product.image }}"
+            preco="{{ product.price }}"
+            quantidade="{{ product.amount }}">
+              <app-button prop-label="Comprar" (click-event)="purchase()"></app-button>
+          </app-prod-card>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

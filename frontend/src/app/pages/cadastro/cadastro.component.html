@@ -1,0 +1,35 @@
+<div class="d-flex justify-content-center mt-5">
+  <app-card header="Cadastro">
+    <form [formGroup]="cadastroForm">
+      <div class="grid gap-0 row-gap-3">
+        <div class="p-2 g-col-6">
+          <app-input
+            formControlName="name"
+            inputName="name"
+            label="Name"
+            placeholder="Seu nome">
+          </app-input>
+        </div>
+        <div class="p-2 g-col-6">
+          <app-input
+            formControlName="username"
+            label="Username"
+            placeholder="Seu email">
+          </app-input>
+        </div>
+        <div class="p-2 g-col-6">
+          <app-input-password
+            formControlName="password"
+            label="Password"
+            placeholder="Sua senha">
+          </app-input-password>
+        </div>
+        <div class="p-2 g-col-6">
+          <div class="d-flex">
+            <app-button prop-label="Cadastrar" (click-event)="onCadastro()"></app-button>
+          </div>
+        </div>
+      </div>
+    </form>
+  </app-card>
+</div>

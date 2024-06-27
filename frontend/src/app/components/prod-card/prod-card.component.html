@@ -1,0 +1,33 @@
+<!-- <p-card [header]="header">
+  <ng-template pTemplate="header">
+    <img alt="Card" [src]="src" />
+  </ng-template>
+  <ng-template pTemplate="content">
+    <span>Preço: {{ preco }}</span><br/>
+    <span>Quantidade: {{ quantidade }}</span>
+  </ng-template>
+  <ng-template pTemplate="footer">
+    <ng-content></ng-content>
+  </ng-template>
+</p-card> -->
+
+<p-card>
+  <ng-template pTemplate="header">
+    <img
+      [src]="src"
+      class="card-image"
+    />
+  </ng-template>
+  <ng-template pTemplate="title">
+    {{ header }}
+  </ng-template>
+  <ng-template pTemplate="subtitle">
+    <span>Preço: {{ preco }}</span>
+  </ng-template>
+  <ng-template pTemplate="content">
+    <span>Quantidade: {{ quantidade }}</span>
+  </ng-template>
+  <ng-template pTemplate="footer">
+    <ng-content></ng-content>
+  </ng-template>
+</p-card>

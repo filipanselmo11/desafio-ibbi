@@ -1,0 +1,1664 @@
+[
+    {
+        "label": "sqlalchemy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Float",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Date",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Time",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "engine_from_config",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "pool",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.shared.database",
+        "description": "app.shared.database",
+        "isExtraImport": true,
+        "detail": "app.shared.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.shared.database",
+        "description": "app.shared.database",
+        "isExtraImport": true,
+        "detail": "app.shared.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.shared.database",
+        "description": "app.shared.database",
+        "isExtraImport": true,
+        "detail": "app.shared.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.shared.database",
+        "description": "app.shared.database",
+        "isExtraImport": true,
+        "detail": "app.shared.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.shared.database",
+        "description": "app.shared.database",
+        "isExtraImport": true,
+        "detail": "app.shared.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "importPath": "app.shared.database",
+        "description": "app.shared.database",
+        "isExtraImport": true,
+        "detail": "app.shared.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.shared.database",
+        "description": "app.shared.database",
+        "isExtraImport": true,
+        "detail": "app.shared.database",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "jsonable_encoder",
+        "importPath": "fastapi.encoders",
+        "description": "fastapi.encoders",
+        "isExtraImport": true,
+        "detail": "fastapi.encoders",
+        "documentation": {}
+    },
+    {
+        "label": "jsonable_encoder",
+        "importPath": "fastapi.encoders",
+        "description": "fastapi.encoders",
+        "isExtraImport": true,
+        "detail": "fastapi.encoders",
+        "documentation": {}
+    },
+    {
+        "label": "jsonable_encoder",
+        "importPath": "fastapi.encoders",
+        "description": "fastapi.encoders",
+        "isExtraImport": true,
+        "detail": "fastapi.encoders",
+        "documentation": {}
+    },
+    {
+        "label": "jsonable_encoder",
+        "importPath": "fastapi.encoders",
+        "description": "fastapi.encoders",
+        "isExtraImport": true,
+        "detail": "fastapi.encoders",
+        "documentation": {}
+    },
+    {
+        "label": "jsonable_encoder",
+        "importPath": "fastapi.encoders",
+        "description": "fastapi.encoders",
+        "isExtraImport": true,
+        "detail": "fastapi.encoders",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.shared.dependencies",
+        "description": "app.shared.dependencies",
+        "isExtraImport": true,
+        "detail": "app.shared.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "token_verifier",
+        "importPath": "app.shared.dependencies",
+        "description": "app.shared.dependencies",
+        "isExtraImport": true,
+        "detail": "app.shared.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.shared.dependencies",
+        "description": "app.shared.dependencies",
+        "isExtraImport": true,
+        "detail": "app.shared.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "token_verifier",
+        "importPath": "app.shared.dependencies",
+        "description": "app.shared.dependencies",
+        "isExtraImport": true,
+        "detail": "app.shared.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.shared.dependencies",
+        "description": "app.shared.dependencies",
+        "isExtraImport": true,
+        "detail": "app.shared.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "token_verifier",
+        "importPath": "app.shared.dependencies",
+        "description": "app.shared.dependencies",
+        "isExtraImport": true,
+        "detail": "app.shared.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.shared.dependencies",
+        "description": "app.shared.dependencies",
+        "isExtraImport": true,
+        "detail": "app.shared.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "token_verifier",
+        "importPath": "app.shared.dependencies",
+        "description": "app.shared.dependencies",
+        "isExtraImport": true,
+        "detail": "app.shared.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.shared.dependencies",
+        "description": "app.shared.dependencies",
+        "isExtraImport": true,
+        "detail": "app.shared.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "token_verifier",
+        "importPath": "app.shared.dependencies",
+        "description": "app.shared.dependencies",
+        "isExtraImport": true,
+        "detail": "app.shared.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryRequest",
+        "importPath": "app.schemas.category",
+        "description": "app.schemas.category",
+        "isExtraImport": true,
+        "detail": "app.schemas.category",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryResponse",
+        "importPath": "app.schemas.category",
+        "description": "app.schemas.category",
+        "isExtraImport": true,
+        "detail": "app.schemas.category",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryResponse",
+        "importPath": "app.schemas.category",
+        "description": "app.schemas.category",
+        "isExtraImport": true,
+        "detail": "app.schemas.category",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryRequest",
+        "importPath": "app.schemas.category",
+        "description": "app.schemas.category",
+        "isExtraImport": true,
+        "detail": "app.schemas.category",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryUseCases",
+        "importPath": "app.use_cases.category_use_cases",
+        "description": "app.use_cases.category_use_cases",
+        "isExtraImport": true,
+        "detail": "app.use_cases.category_use_cases",
+        "documentation": {}
+    },
+    {
+        "label": "ProductRequest",
+        "importPath": "app.schemas.product",
+        "description": "app.schemas.product",
+        "isExtraImport": true,
+        "detail": "app.schemas.product",
+        "documentation": {}
+    },
+    {
+        "label": "ProductResponse",
+        "importPath": "app.schemas.product",
+        "description": "app.schemas.product",
+        "isExtraImport": true,
+        "detail": "app.schemas.product",
+        "documentation": {}
+    },
+    {
+        "label": "ProductResponse",
+        "importPath": "app.schemas.product",
+        "description": "app.schemas.product",
+        "isExtraImport": true,
+        "detail": "app.schemas.product",
+        "documentation": {}
+    },
+    {
+        "label": "ProductRequest",
+        "importPath": "app.schemas.product",
+        "description": "app.schemas.product",
+        "isExtraImport": true,
+        "detail": "app.schemas.product",
+        "documentation": {}
+    },
+    {
+        "label": "ProductUseCases",
+        "importPath": "app.use_cases.product_use_cases",
+        "description": "app.use_cases.product_use_cases",
+        "isExtraImport": true,
+        "detail": "app.use_cases.product_use_cases",
+        "documentation": {}
+    },
+    {
+        "label": "PurchaseRequest",
+        "importPath": "app.schemas.purchase",
+        "description": "app.schemas.purchase",
+        "isExtraImport": true,
+        "detail": "app.schemas.purchase",
+        "documentation": {}
+    },
+    {
+        "label": "PurchaseResponse",
+        "importPath": "app.schemas.purchase",
+        "description": "app.schemas.purchase",
+        "isExtraImport": true,
+        "detail": "app.schemas.purchase",
+        "documentation": {}
+    },
+    {
+        "label": "PurchaseRequest",
+        "importPath": "app.schemas.purchase",
+        "description": "app.schemas.purchase",
+        "isExtraImport": true,
+        "detail": "app.schemas.purchase",
+        "documentation": {}
+    },
+    {
+        "label": "PurchaseUseCases",
+        "importPath": "app.use_cases.purchase_use_cases",
+        "description": "app.use_cases.purchase_use_cases",
+        "isExtraImport": true,
+        "detail": "app.use_cases.purchase_use_cases",
+        "documentation": {}
+    },
+    {
+        "label": "SaleRequest",
+        "importPath": "app.schemas.sale",
+        "description": "app.schemas.sale",
+        "isExtraImport": true,
+        "detail": "app.schemas.sale",
+        "documentation": {}
+    },
+    {
+        "label": "SaleResponse",
+        "importPath": "app.schemas.sale",
+        "description": "app.schemas.sale",
+        "isExtraImport": true,
+        "detail": "app.schemas.sale",
+        "documentation": {}
+    },
+    {
+        "label": "SaleRequest",
+        "importPath": "app.schemas.sale",
+        "description": "app.schemas.sale",
+        "isExtraImport": true,
+        "detail": "app.schemas.sale",
+        "documentation": {}
+    },
+    {
+        "label": "SaleUseCases",
+        "importPath": "app.use_cases.sale_use_cases",
+        "description": "app.use_cases.sale_use_cases",
+        "isExtraImport": true,
+        "detail": "app.use_cases.sale_use_cases",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordRequestForm",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordBearer",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreateRequest",
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "isExtraImport": true,
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserLoginRequest",
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "isExtraImport": true,
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserResponse",
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "isExtraImport": true,
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreateRequest",
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "isExtraImport": true,
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserLoginRequest",
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "isExtraImport": true,
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserUseCases",
+        "importPath": "app.use_cases.user_use_cases",
+        "description": "app.use_cases.user_use_cases",
+        "isExtraImport": true,
+        "detail": "app.use_cases.user_use_cases",
+        "documentation": {}
+    },
+    {
+        "label": "UserUseCases",
+        "importPath": "app.use_cases.user_use_cases",
+        "description": "app.use_cases.user_use_cases",
+        "isExtraImport": true,
+        "detail": "app.use_cases.user_use_cases",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi.exceptions",
+        "description": "fastapi.exceptions",
+        "isExtraImport": true,
+        "detail": "fastapi.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi.exceptions",
+        "description": "fastapi.exceptions",
+        "isExtraImport": true,
+        "detail": "fastapi.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi.exceptions",
+        "description": "fastapi.exceptions",
+        "isExtraImport": true,
+        "detail": "fastapi.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi.exceptions",
+        "description": "fastapi.exceptions",
+        "isExtraImport": true,
+        "detail": "fastapi.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi.exceptions",
+        "description": "fastapi.exceptions",
+        "isExtraImport": true,
+        "detail": "fastapi.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "IntegrityError",
+        "importPath": "sqlalchemy.exc",
+        "description": "sqlalchemy.exc",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.exc",
+        "documentation": {}
+    },
+    {
+        "label": "IntegrityError",
+        "importPath": "sqlalchemy.exc",
+        "description": "sqlalchemy.exc",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.exc",
+        "documentation": {}
+    },
+    {
+        "label": "IntegrityError",
+        "importPath": "sqlalchemy.exc",
+        "description": "sqlalchemy.exc",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.exc",
+        "documentation": {}
+    },
+    {
+        "label": "IntegrityError",
+        "importPath": "sqlalchemy.exc",
+        "description": "sqlalchemy.exc",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.exc",
+        "documentation": {}
+    },
+    {
+        "label": "IntegrityError",
+        "importPath": "sqlalchemy.exc",
+        "description": "sqlalchemy.exc",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.exc",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryModel",
+        "importPath": "app.models.category",
+        "description": "app.models.category",
+        "isExtraImport": true,
+        "detail": "app.models.category",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryModel",
+        "importPath": "app.models.category",
+        "description": "app.models.category",
+        "isExtraImport": true,
+        "detail": "app.models.category",
+        "documentation": {}
+    },
+    {
+        "label": "ProductModel",
+        "importPath": "app.models.product",
+        "description": "app.models.product",
+        "isExtraImport": true,
+        "detail": "app.models.product",
+        "documentation": {}
+    },
+    {
+        "label": "ProductModel",
+        "importPath": "app.models.product",
+        "description": "app.models.product",
+        "isExtraImport": true,
+        "detail": "app.models.product",
+        "documentation": {}
+    },
+    {
+        "label": "ProductModel",
+        "importPath": "app.models.product",
+        "description": "app.models.product",
+        "isExtraImport": true,
+        "detail": "app.models.product",
+        "documentation": {}
+    },
+    {
+        "label": "ProductModel",
+        "importPath": "app.models.product",
+        "description": "app.models.product",
+        "isExtraImport": true,
+        "detail": "app.models.product",
+        "documentation": {}
+    },
+    {
+        "label": "PurchaseModel",
+        "importPath": "app.models.purchase",
+        "description": "app.models.purchase",
+        "isExtraImport": true,
+        "detail": "app.models.purchase",
+        "documentation": {}
+    },
+    {
+        "label": "PurchaseModel",
+        "importPath": "app.models.purchase",
+        "description": "app.models.purchase",
+        "isExtraImport": true,
+        "detail": "app.models.purchase",
+        "documentation": {}
+    },
+    {
+        "label": "UserModel",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserModel",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserModel",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy.sql",
+        "description": "sqlalchemy.sql",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SaleModel",
+        "importPath": "app.models.sale",
+        "description": "app.models.sale",
+        "isExtraImport": true,
+        "detail": "app.models.sale",
+        "documentation": {}
+    },
+    {
+        "label": "SaleModel",
+        "importPath": "app.models.sale",
+        "description": "app.models.sale",
+        "isExtraImport": true,
+        "detail": "app.models.sale",
+        "documentation": {}
+    },
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "JWTError",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "users",
+        "importPath": "app.routers",
+        "description": "app.routers",
+        "isExtraImport": true,
+        "detail": "app.routers",
+        "documentation": {}
+    },
+    {
+        "label": "categories",
+        "importPath": "app.routers",
+        "description": "app.routers",
+        "isExtraImport": true,
+        "detail": "app.routers",
+        "documentation": {}
+    },
+    {
+        "label": "products",
+        "importPath": "app.routers",
+        "description": "app.routers",
+        "isExtraImport": true,
+        "detail": "app.routers",
+        "documentation": {}
+    },
+    {
+        "label": "purchases",
+        "importPath": "app.routers",
+        "description": "app.routers",
+        "isExtraImport": true,
+        "detail": "app.routers",
+        "documentation": {}
+    },
+    {
+        "label": "sales",
+        "importPath": "app.routers",
+        "description": "app.routers",
+        "isExtraImport": true,
+        "detail": "app.routers",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "context",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "fileConfig",
+        "importPath": "logging.config",
+        "description": "logging.config",
+        "isExtraImport": true,
+        "detail": "logging.config",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryModel",
+        "kind": 6,
+        "importPath": "backend-ibbi.app.models.category",
+        "description": "backend-ibbi.app.models.category",
+        "peekOfCode": "class CategoryModel(Base):\n    __tablename__ = \"categories\"\n    id = Column('id', Integer, primary_key=True, nullable=False, autoincrement=True)\n    description = Column('descricao', String, nullable=False, unique=True)\n    products = relationship('ProductModel')",
+        "detail": "backend-ibbi.app.models.category",
+        "documentation": {}
+    },
+    {
+        "label": "ProductModel",
+        "kind": 6,
+        "importPath": "backend-ibbi.app.models.product",
+        "description": "backend-ibbi.app.models.product",
+        "peekOfCode": "class ProductModel(Base):\n    __tablename__ = \"products\"\n    id = Column('id', Integer, primary_key=True, nullable=False, autoincrement=True)\n    description = Column('description', String, nullable=False)\n    price = Column('price', Float, nullable=False)\n    amount = Column('amount', Integer, nullable=False)\n    image = Column('image', String, nullable=False)\n    category_id = Column('category', Integer, ForeignKey('categories.id'))\n    category = relationship('CategoryModel')\n    sales = relationship('SaleModel')",
+        "detail": "backend-ibbi.app.models.product",
+        "documentation": {}
+    },
+    {
+        "label": "PurchaseModel",
+        "kind": 6,
+        "importPath": "backend-ibbi.app.models.purchase",
+        "description": "backend-ibbi.app.models.purchase",
+        "peekOfCode": "class PurchaseModel(Base):\n   __tablename__ = \"purchases\"\n   id = Column('id', Integer, primary_key=True, nullable=False, autoincrement=True)\n   user_id = Column('user', Integer, ForeignKey('users.id'), nullable=False)\n   product_id = Column('product', Integer, ForeignKey('products.id'), nullable=False)\n   user = relationship('UserModel')\n   product = relationship('ProductModel')",
+        "detail": "backend-ibbi.app.models.purchase",
+        "documentation": {}
+    },
+    {
+        "label": "SaleModel",
+        "kind": 6,
+        "importPath": "backend-ibbi.app.models.sale",
+        "description": "backend-ibbi.app.models.sale",
+        "peekOfCode": "class SaleModel(Base):\n    __tablename__ = \"sales\"\n    id = Column('id', Integer, primary_key=True, nullable=False, autoincrement=True)\n    datetime = Column('datetime', Date)\n    hour = Column('hour', Time)\n    client = Column('client', String, nullable=False)\n    seller = Column('seller', String, nullable=False)\n    sale_desc = Column('sale_desc', String, nullable=False)\n    product_id = Column('product', Integer, ForeignKey('products.id'))\n    amount = Column('amount', Integer, nullable=False)",
+        "detail": "backend-ibbi.app.models.sale",
+        "documentation": {}
+    },
+    {
+        "label": "UserModel",
+        "kind": 6,
+        "importPath": "backend-ibbi.app.models.user",
+        "description": "backend-ibbi.app.models.user",
+        "peekOfCode": "class UserModel(Base):\n    __tablename__ = \"users\"\n    id = Column('id', Integer, primary_key=True, nullable=False, autoincrement=True)\n    name = Column('name', String, nullable=False, unique=True)\n    username = Column('username', String, nullable=False, unique=True)\n    password = Column('password', String, nullable=False)",
+        "detail": "backend-ibbi.app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend-ibbi.app.routers.categories",
+        "description": "backend-ibbi.app.routers.categories",
+        "peekOfCode": "router = APIRouter(prefix='/category')\n@router.post('/create', response_model=CategoryResponse, status_code=201)\nasync def category_create(category: CategoryRequest, db: Session=Depends(get_db)):\n    cc = CategoryUseCases(db=db)\n    cc.category_create(category=category)\n    return JSONResponse(content={'msg': 'Categoria Criada'})\n@router.get('/categories', response_model=list[CategoryResponse], status_code=200)\nasync def get_categories(skip: int = 0, limit: int = 10, db: Session=Depends(get_db)):\n    cc = CategoryUseCases(db=db)\n    categories = jsonable_encoder(cc.get_categories(skip=skip, limit=limit))",
+        "detail": "backend-ibbi.app.routers.categories",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend-ibbi.app.routers.products",
+        "description": "backend-ibbi.app.routers.products",
+        "peekOfCode": "router = APIRouter(prefix='/product')\n@router.post('/create', response_model=ProductRequest, status_code=201)\nasync def product_create(product: ProductRequest, db: Session=Depends(get_db)):\n    pc = ProductUseCases(db=db)\n    pc.product_create(product=product)\n    return JSONResponse(content={'msg': 'Produto Criado'})\n@router.get('/products', response_model=list[ProductResponse], status_code=200)\nasync def get_products(skip: int = 0, limit: int = 10, db: Session=Depends(get_db)):\n    pc = ProductUseCases(db=db)\n    products = jsonable_encoder(pc.get_products(skip=skip, limit=limit))",
+        "detail": "backend-ibbi.app.routers.products",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend-ibbi.app.routers.purchases",
+        "description": "backend-ibbi.app.routers.purchases",
+        "peekOfCode": "router = APIRouter(prefix='/purchase')\n@router.post('/make', response_model=PurchaseRequest, status_code=201)\nasync def make_purchase(purchase: PurchaseRequest, db: Session=Depends(get_db)):\n    pc = PurchaseUseCases(db=db)\n    pc.make_purchase(purchase=purchase)\n    return JSONResponse(content={'msg': 'Compra realizada'})\n@router.get('/purchases', response_model=list[PurchaseResponse], status_code=200)\nasync def get_purchases(skip: int = 0, limit: int = 10, db: Session=Depends(get_db)):\n    pc = PurchaseUseCases(db=db)\n    purchases = jsonable_encoder(pc.get_purchases(skip=skip, limit=limit))",
+        "detail": "backend-ibbi.app.routers.purchases",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend-ibbi.app.routers.sales",
+        "description": "backend-ibbi.app.routers.sales",
+        "peekOfCode": "router = APIRouter(prefix='/sale')\n@router.post('/make', response_model=SaleRequest, status_code=201)\nasync def make_sell(sale: SaleRequest, db: Session=Depends(get_db)):\n    sc = SaleUseCases(db=db)\n    sc.make_sell(sale=sale)\n    return JSONResponse(content={'msg': 'Venda realizada'})\n@router.get('/top-products', response_model=list[ProductResponse], status_code=200)\nasync def get_top_products(skip:int = 0, limit: int = 10, db: Session=Depends(get_db)):\n    sc = SaleUseCases(db=db)\n    top_products = jsonable_encoder(sc.get_top_products(skip=skip, limit=limit))",
+        "detail": "backend-ibbi.app.routers.sales",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend-ibbi.app.routers.users",
+        "description": "backend-ibbi.app.routers.users",
+        "peekOfCode": "router = APIRouter(prefix='/user')\ntest_router = APIRouter(prefix='/test', dependencies=[Depends(token_verifier)])\n@router.post('/create', status_code=201)\nasync def user_create(user: UserCreateRequest, db: Session=Depends(get_db)):\n    uc = UserUseCases(db=db)\n    uc.user_create(user=user)\n    return JSONResponse(content= {'msg': 'Usuário Criado'})\n@router.post('/login', status_code=200)\nasync def user_login(request_form_user: OAuth2PasswordRequestForm=Depends(), db: Session=Depends(get_db)):\n    uc = UserUseCases(db=db)",
+        "detail": "backend-ibbi.app.routers.users",
+        "documentation": {}
+    },
+    {
+        "label": "test_router",
+        "kind": 5,
+        "importPath": "backend-ibbi.app.routers.users",
+        "description": "backend-ibbi.app.routers.users",
+        "peekOfCode": "test_router = APIRouter(prefix='/test', dependencies=[Depends(token_verifier)])\n@router.post('/create', status_code=201)\nasync def user_create(user: UserCreateRequest, db: Session=Depends(get_db)):\n    uc = UserUseCases(db=db)\n    uc.user_create(user=user)\n    return JSONResponse(content= {'msg': 'Usuário Criado'})\n@router.post('/login', status_code=200)\nasync def user_login(request_form_user: OAuth2PasswordRequestForm=Depends(), db: Session=Depends(get_db)):\n    uc = UserUseCases(db=db)\n    user = UserLoginRequest(username=request_form_user.username, password=request_form_user.password) ",
+        "detail": "backend-ibbi.app.routers.users",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryResponse",
+        "kind": 6,
+        "importPath": "backend-ibbi.app.schemas.category",
+        "description": "backend-ibbi.app.schemas.category",
+        "peekOfCode": "class CategoryResponse(BaseModel):\n    id: int\n    description: str\n    class Config:\n        from_attributes = True\nclass CategoryRequest(BaseModel):\n    description: str",
+        "detail": "backend-ibbi.app.schemas.category",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryRequest",
+        "kind": 6,
+        "importPath": "backend-ibbi.app.schemas.category",
+        "description": "backend-ibbi.app.schemas.category",
+        "peekOfCode": "class CategoryRequest(BaseModel):\n    description: str",
+        "detail": "backend-ibbi.app.schemas.category",
+        "documentation": {}
+    },
+    {
+        "label": "ProductResponse",
+        "kind": 6,
+        "importPath": "backend-ibbi.app.schemas.product",
+        "description": "backend-ibbi.app.schemas.product",
+        "peekOfCode": "class ProductResponse(BaseModel):\n    id: int\n    description: str\n    price: float\n    amount: int\n    category: CategoryResponse | None = None\n    image: str\n    class Config:\n        from_attributes = True\nclass ProductRequest(BaseModel):",
+        "detail": "backend-ibbi.app.schemas.product",
+        "documentation": {}
+    },
+    {
+        "label": "ProductRequest",
+        "kind": 6,
+        "importPath": "backend-ibbi.app.schemas.product",
+        "description": "backend-ibbi.app.schemas.product",
+        "peekOfCode": "class ProductRequest(BaseModel):\n    description: str\n    price: float\n    amount: int\n    category_id: int | None = None\n    image: str",
+        "detail": "backend-ibbi.app.schemas.product",
+        "documentation": {}
+    },
+    {
+        "label": "PurchaseResponse",
+        "kind": 6,
+        "importPath": "backend-ibbi.app.schemas.purchase",
+        "description": "backend-ibbi.app.schemas.purchase",
+        "peekOfCode": "class PurchaseResponse(BaseModel):\n    id: int\n    user_id: str\n    product_id: str\n    class Config:\n        from_attributes = True\nclass PurchaseRequest(BaseModel):\n    user_id: int\n    product_id: int",
+        "detail": "backend-ibbi.app.schemas.purchase",
+        "documentation": {}
+    },
+    {
+        "label": "PurchaseRequest",
+        "kind": 6,
+        "importPath": "backend-ibbi.app.schemas.purchase",
+        "description": "backend-ibbi.app.schemas.purchase",
+        "peekOfCode": "class PurchaseRequest(BaseModel):\n    user_id: int\n    product_id: int",
+        "detail": "backend-ibbi.app.schemas.purchase",
+        "documentation": {}
+    },
+    {
+        "label": "SaleResponse",
+        "kind": 6,
+        "importPath": "backend-ibbi.app.schemas.sale",
+        "description": "backend-ibbi.app.schemas.sale",
+        "peekOfCode": "class SaleResponse(BaseModel):\n    id: int\n    datetime: datetime\n    hour: time\n    client: str\n    seller: str\n    sale_desc: str\n    product_id: int\n    amount: int\n    class Config:",
+        "detail": "backend-ibbi.app.schemas.sale",
+        "documentation": {}
+    },
+    {
+        "label": "SaleRequest",
+        "kind": 6,
+        "importPath": "backend-ibbi.app.schemas.sale",
+        "description": "backend-ibbi.app.schemas.sale",
+        "peekOfCode": "class SaleRequest(BaseModel):\n    datetime: datetime\n    hour: time\n    client: str\n    seller: str\n    sale_desc: str\n    product_id: int\n    amount: int",
+        "detail": "backend-ibbi.app.schemas.sale",
+        "documentation": {}
+    },
+    {
+        "label": "UserResponse",
+        "kind": 6,
+        "importPath": "backend-ibbi.app.schemas.user",
+        "description": "backend-ibbi.app.schemas.user",
+        "peekOfCode": "class UserResponse(BaseModel):\n    id: int\n    name: str\n    username: str\n    password: str\n    class Config:\n        from_attributes = True\nclass UserCreateRequest(BaseModel):\n    name: str\n    username: str",
+        "detail": "backend-ibbi.app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreateRequest",
+        "kind": 6,
+        "importPath": "backend-ibbi.app.schemas.user",
+        "description": "backend-ibbi.app.schemas.user",
+        "peekOfCode": "class UserCreateRequest(BaseModel):\n    name: str\n    username: str\n    password: str\n    # @field_validator('username')\n    # def validate_username(cls, value):\n    #     if not re.match('^([a-z]|[0-9]|@)+$', value):\n    #         raise ValueError('Formato de username inválido')\n    #     return value\nclass UserLoginRequest(BaseModel):",
+        "detail": "backend-ibbi.app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserLoginRequest",
+        "kind": 6,
+        "importPath": "backend-ibbi.app.schemas.user",
+        "description": "backend-ibbi.app.schemas.user",
+        "peekOfCode": "class UserLoginRequest(BaseModel):\n    username: str\n    password: str\n    # @field_validator('username')\n    # def validate_username(cls, value):\n    #     if not re.match('^([a-z]|[0-9]|@)+$', value):\n    #         raise ValueError('Formato de username inválido')\n    #     return value",
+        "detail": "backend-ibbi.app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "SQLALCHEMY_DATA_BASE_URL",
+        "kind": 5,
+        "importPath": "backend-ibbi.app.shared.database",
+        "description": "backend-ibbi.app.shared.database",
+        "peekOfCode": "SQLALCHEMY_DATA_BASE_URL = \"postgresql+psycopg2://admin:senha123@localhost/ibbi_db\"\nengine = create_engine(SQLALCHEMY_DATA_BASE_URL)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False,bind=engine)\nBase = declarative_base()",
+        "detail": "backend-ibbi.app.shared.database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "backend-ibbi.app.shared.database",
+        "description": "backend-ibbi.app.shared.database",
+        "peekOfCode": "engine = create_engine(SQLALCHEMY_DATA_BASE_URL)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False,bind=engine)\nBase = declarative_base()",
+        "detail": "backend-ibbi.app.shared.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "backend-ibbi.app.shared.database",
+        "description": "backend-ibbi.app.shared.database",
+        "peekOfCode": "SessionLocal = sessionmaker(autocommit=False, autoflush=False,bind=engine)\nBase = declarative_base()",
+        "detail": "backend-ibbi.app.shared.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "backend-ibbi.app.shared.database",
+        "description": "backend-ibbi.app.shared.database",
+        "peekOfCode": "Base = declarative_base()",
+        "detail": "backend-ibbi.app.shared.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "backend-ibbi.app.shared.dependencies",
+        "description": "backend-ibbi.app.shared.dependencies",
+        "peekOfCode": "def get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\ndef token_verifier(\n        db: SessionLocal=Depends(get_db),\n        token=Depends(oauth_scheme)\n    ):",
+        "detail": "backend-ibbi.app.shared.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "token_verifier",
+        "kind": 2,
+        "importPath": "backend-ibbi.app.shared.dependencies",
+        "description": "backend-ibbi.app.shared.dependencies",
+        "peekOfCode": "def token_verifier(\n        db: SessionLocal=Depends(get_db),\n        token=Depends(oauth_scheme)\n    ):\n        uc = UserUseCases(db=db)\n        uc.user_verify_token(access_token=token)",
+        "detail": "backend-ibbi.app.shared.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "oauth_scheme",
+        "kind": 5,
+        "importPath": "backend-ibbi.app.shared.dependencies",
+        "description": "backend-ibbi.app.shared.dependencies",
+        "peekOfCode": "oauth_scheme = OAuth2PasswordBearer(tokenUrl='/user/login')\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\ndef token_verifier(\n        db: SessionLocal=Depends(get_db),\n        token=Depends(oauth_scheme)",
+        "detail": "backend-ibbi.app.shared.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryUseCases",
+        "kind": 6,
+        "importPath": "backend-ibbi.app.use_cases.category_use_cases",
+        "description": "backend-ibbi.app.use_cases.category_use_cases",
+        "peekOfCode": "class CategoryUseCases:\n    def __init__(self, db:Session):\n        self.db = db\n    def category_create(self, category: CategoryRequest):\n        category_model = CategoryModel(description=category.description)\n        try:\n            self.db.add(category_model)\n            self.db.commit()\n        except IntegrityError:\n            raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail='Categoria já existe')",
+        "detail": "backend-ibbi.app.use_cases.category_use_cases",
+        "documentation": {}
+    },
+    {
+        "label": "ProductUseCases",
+        "kind": 6,
+        "importPath": "backend-ibbi.app.use_cases.product_use_cases",
+        "description": "backend-ibbi.app.use_cases.product_use_cases",
+        "peekOfCode": "class ProductUseCases:\n    def __init__(self, db: Session):\n        self.db = db\n    def product_create(self, product: ProductRequest):\n        product_model = ProductModel(\n            description=product.description,\n            price=product.price,\n            amount=product.amount,\n            category_id=product.category_id,\n            image=product.image)",
+        "detail": "backend-ibbi.app.use_cases.product_use_cases",
+        "documentation": {}
+    },
+    {
+        "label": "PurchaseUseCases",
+        "kind": 6,
+        "importPath": "backend-ibbi.app.use_cases.purchase_use_cases",
+        "description": "backend-ibbi.app.use_cases.purchase_use_cases",
+        "peekOfCode": "class PurchaseUseCases:\n    def __init__(self, db: Session):\n        self.db = db\n    def make_purchase(self, purchase: PurchaseRequest):\n        user = self.db.query(UserModel).filter(UserModel.id == purchase.user_id).first()\n        product = self.db.query(ProductModel).filter(ProductModel.id == purchase.product_id).first()\n        if user is None:\n            raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail='Usuário(a) não encontrado')\n        if product is None:\n            raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail='Produto não encontrado')",
+        "detail": "backend-ibbi.app.use_cases.purchase_use_cases",
+        "documentation": {}
+    },
+    {
+        "label": "SaleUseCases",
+        "kind": 6,
+        "importPath": "backend-ibbi.app.use_cases.sale_use_cases",
+        "description": "backend-ibbi.app.use_cases.sale_use_cases",
+        "peekOfCode": "class SaleUseCases:\n    def __init__(self, db: Session):\n        self.db = db\n    def make_sell(self, sale: SaleRequest):\n        product = self.db.query(ProductModel).filter(ProductModel.id == sale.product_id).first()\n        if product is None:\n            raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail='Produto não encontrado')\n        sale_model = SaleModel(\n            datetime=sale.datetime,\n            hour=sale.hour,",
+        "detail": "backend-ibbi.app.use_cases.sale_use_cases",
+        "documentation": {}
+    },
+    {
+        "label": "UserUseCases",
+        "kind": 6,
+        "importPath": "backend-ibbi.app.use_cases.user_use_cases",
+        "description": "backend-ibbi.app.use_cases.user_use_cases",
+        "peekOfCode": "class UserUseCases:\n    def __init__(self, db: Session):\n        self.db = db\n    def user_create(self, user: UserCreateRequest):\n        user_model = UserModel(name=user.name, username=user.username, password=crypt_context.hash(user.password))\n        try:\n            self.db.add(user_model)\n            self.db.commit()\n        except IntegrityError:\n            raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail='Usuário já existe')",
+        "detail": "backend-ibbi.app.use_cases.user_use_cases",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "backend-ibbi.app.use_cases.user_use_cases",
+        "description": "backend-ibbi.app.use_cases.user_use_cases",
+        "peekOfCode": "SECRET_KEY = \"dba960e0ef2d19079a1cb67df44fa1fd8726c3ffaed6378c94954cc23aa2717e\"\nALGORITHM = \"HS256\"\ncrypt_context = CryptContext(schemes=['sha256_crypt'])\nclass UserUseCases:\n    def __init__(self, db: Session):\n        self.db = db\n    def user_create(self, user: UserCreateRequest):\n        user_model = UserModel(name=user.name, username=user.username, password=crypt_context.hash(user.password))\n        try:\n            self.db.add(user_model)",
+        "detail": "backend-ibbi.app.use_cases.user_use_cases",
+        "documentation": {}
+    },
+    {
+        "label": "ALGORITHM",
+        "kind": 5,
+        "importPath": "backend-ibbi.app.use_cases.user_use_cases",
+        "description": "backend-ibbi.app.use_cases.user_use_cases",
+        "peekOfCode": "ALGORITHM = \"HS256\"\ncrypt_context = CryptContext(schemes=['sha256_crypt'])\nclass UserUseCases:\n    def __init__(self, db: Session):\n        self.db = db\n    def user_create(self, user: UserCreateRequest):\n        user_model = UserModel(name=user.name, username=user.username, password=crypt_context.hash(user.password))\n        try:\n            self.db.add(user_model)\n            self.db.commit()",
+        "detail": "backend-ibbi.app.use_cases.user_use_cases",
+        "documentation": {}
+    },
+    {
+        "label": "crypt_context",
+        "kind": 5,
+        "importPath": "backend-ibbi.app.use_cases.user_use_cases",
+        "description": "backend-ibbi.app.use_cases.user_use_cases",
+        "peekOfCode": "crypt_context = CryptContext(schemes=['sha256_crypt'])\nclass UserUseCases:\n    def __init__(self, db: Session):\n        self.db = db\n    def user_create(self, user: UserCreateRequest):\n        user_model = UserModel(name=user.name, username=user.username, password=crypt_context.hash(user.password))\n        try:\n            self.db.add(user_model)\n            self.db.commit()\n        except IntegrityError:",
+        "detail": "backend-ibbi.app.use_cases.user_use_cases",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "backend-ibbi.app.main",
+        "description": "backend-ibbi.app.main",
+        "peekOfCode": "app = FastAPI()\norigins = [\n    \"http://localhost\",\n    \"http://localhost:4200\",\n]\n@app.get('/')\nasync def root():\n    return \"Olá mundo\"\napp.include_router(users.router)\napp.include_router(categories.router)",
+        "detail": "backend-ibbi.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "origins",
+        "kind": 5,
+        "importPath": "backend-ibbi.app.main",
+        "description": "backend-ibbi.app.main",
+        "peekOfCode": "origins = [\n    \"http://localhost\",\n    \"http://localhost:4200\",\n]\n@app.get('/')\nasync def root():\n    return \"Olá mundo\"\napp.include_router(users.router)\napp.include_router(categories.router)\napp.include_router(products.router)",
+        "detail": "backend-ibbi.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "backend-ibbi.migrations.versions.05fc78137c46_create_final_tables",
+        "description": "backend-ibbi.migrations.versions.05fc78137c46_create_final_tables",
+        "peekOfCode": "def upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('categories',\n    sa.Column('id', sa.Integer(), autoincrement=True, nullable=False),\n    sa.Column('descricao', sa.String(), nullable=False),\n    sa.PrimaryKeyConstraint('id'),\n    sa.UniqueConstraint('descricao')\n    )\n    op.create_table('users',\n    sa.Column('id', sa.Integer(), autoincrement=True, nullable=False),",
+        "detail": "backend-ibbi.migrations.versions.05fc78137c46_create_final_tables",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "backend-ibbi.migrations.versions.05fc78137c46_create_final_tables",
+        "description": "backend-ibbi.migrations.versions.05fc78137c46_create_final_tables",
+        "peekOfCode": "def downgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_table('sales')\n    op.drop_table('purchases')\n    op.drop_table('products')\n    op.drop_table('users')\n    op.drop_table('categories')\n    # ### end Alembic commands ###",
+        "detail": "backend-ibbi.migrations.versions.05fc78137c46_create_final_tables",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_offline",
+        "kind": 2,
+        "importPath": "backend-ibbi.migrations.env",
+        "description": "backend-ibbi.migrations.env",
+        "peekOfCode": "def run_migrations_offline() -> None:\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation\n    we don't even need a DBAPI to be available.\n    Calls to context.execute() here emit the given string to the\n    script output.\n    \"\"\"\n    url = config.get_main_option(\"sqlalchemy.url\")",
+        "detail": "backend-ibbi.migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_online",
+        "kind": 2,
+        "importPath": "backend-ibbi.migrations.env",
+        "description": "backend-ibbi.migrations.env",
+        "peekOfCode": "def run_migrations_online() -> None:\n    \"\"\"Run migrations in 'online' mode.\n    In this scenario we need to create an Engine\n    and associate a connection with the context.\n    \"\"\"\n    connectable = engine_from_config(\n        config.get_section(config.config_ini_section, {}),\n        prefix=\"sqlalchemy.\",\n        poolclass=pool.NullPool,\n    )",
+        "detail": "backend-ibbi.migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "backend-ibbi.migrations.env",
+        "description": "backend-ibbi.migrations.env",
+        "peekOfCode": "config = context.config\n# Interpret the config file for Python logging.\n# This line sets up loggers basically.\nif config.config_file_name is not None:\n    fileConfig(config.config_file_name)\n# add your model's MetaData object here\n# for 'autogenerate' support\n# from myapp import mymodel\n# target_metadata = mymodel.Base.metadata\ntarget_metadata = Base.metadata",
+        "detail": "backend-ibbi.migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "target_metadata",
+        "kind": 5,
+        "importPath": "backend-ibbi.migrations.env",
+        "description": "backend-ibbi.migrations.env",
+        "peekOfCode": "target_metadata = Base.metadata\n# other values from the config, defined by the needs of env.py,\n# can be acquired:\n# my_important_option = config.get_main_option(\"my_important_option\")\n# ... etc.\ndef run_migrations_offline() -> None:\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation",
+        "detail": "backend-ibbi.migrations.env",
+        "documentation": {}
+    }
+]

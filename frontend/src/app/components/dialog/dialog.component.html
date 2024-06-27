@@ -1,0 +1,10 @@
+<p-dialog
+  [header]="header"
+  [modal]="true"
+  [closable]="true"
+  [(visible)]="visible"
+  [position]="position"
+  [style]="style"
+  (onHide)="onCloseModal()">
+    <ng-content></ng-content>
+</p-dialog>

@@ -1,0 +1,5 @@
+:host ::ng-deep app-card .p-card {
+  background-color: #272727 !important;
+  color: #D2AC49 !important;
+  width: 450px !important;
+}

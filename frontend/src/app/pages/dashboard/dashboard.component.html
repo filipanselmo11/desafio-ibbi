@@ -1,0 +1,27 @@
+<section id="menu-section" class="d-flex justify-content-center mt-4">
+  <app-menu></app-menu>
+</section>
+
+<section id="cards">
+  <div class="container mt-4">
+    <div class="row">
+      <div class="col-md-6 mb-4">
+        <app-card header="Histórico de Venda">
+          <app-table [products]="sales"></app-table>
+        </app-card>
+      </div>
+      <div class="col-md-6 mb-4">
+        <app-card header="Venda por categorias">
+          <app-chart type="doughnut" [data]="data1" [options]="options1">
+          </app-chart>
+        </app-card>
+      </div>
+      <div class="col-md-12">
+        <app-card header="Produtos mais vendidos">
+          <app-chart type="bar" [data]="data2" [options]="options2">
+          </app-chart>
+        </app-card>
+      </div>
+    </div>
+  </div>
+</section>
