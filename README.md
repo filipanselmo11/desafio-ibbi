@@ -18,6 +18,6 @@ A estrutura do projeto é esta:
 └── requirements.txt - Arquivo que contem todas as dependências da aplicação
 
 
-# Para executar os containers do Backend, rode o seguinte comando: docker-compose up --build
+ Para executar os containers do Backend, rode o seguinte comando: docker-compose up --build
 
 # Front End
