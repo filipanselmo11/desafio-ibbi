@@ -1,0 +1,23 @@
+services:
+  db:
+    image: postgres:13
+    restart: always
+    environment:
+      - POSTGRES_USER=admin
+      - POSTGRES_PASSWORD=senha123
+      - POSTGRES_DB=ibbi_db
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  web:
+    build: .
+    restart: always
+    depends_on:
+      - db
+    environment:
+      - DATABASE_URL=postgresql+psycopg2://admin:senha123@localhost/ibbi_db
+    ports:
+      - "8000:8000"
+
+volumes:
+  postgres_data:

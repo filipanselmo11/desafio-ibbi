@@ -1455,11 +1455,11 @@
         "documentation": {}
     },
     {
-        "label": "SQLALCHEMY_DATA_BASE_URL",
+        "label": "DATA_BASE_URL",
         "kind": 5,
         "importPath": "backend-ibbi.app.shared.database",
         "description": "backend-ibbi.app.shared.database",
-        "peekOfCode": "SQLALCHEMY_DATA_BASE_URL = \"postgresql+psycopg2://admin:senha123@localhost/ibbi_db\"\nengine = create_engine(SQLALCHEMY_DATA_BASE_URL)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False,bind=engine)\nBase = declarative_base()",
+        "peekOfCode": "DATA_BASE_URL = \"postgresql+psycopg2://admin:senha123@localhost/ibbi_db\"\nengine = create_engine(DATA_BASE_URL)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False,bind=engine)\nBase = declarative_base()",
         "detail": "backend-ibbi.app.shared.database",
         "documentation": {}
     },
@@ -1468,7 +1468,7 @@
         "kind": 5,
         "importPath": "backend-ibbi.app.shared.database",
         "description": "backend-ibbi.app.shared.database",
-        "peekOfCode": "engine = create_engine(SQLALCHEMY_DATA_BASE_URL)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False,bind=engine)\nBase = declarative_base()",
+        "peekOfCode": "engine = create_engine(DATA_BASE_URL)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False,bind=engine)\nBase = declarative_base()",
         "detail": "backend-ibbi.app.shared.database",
         "documentation": {}
     },
